@@ -14,7 +14,7 @@ No início, ela usava a internet para pesquisar sobre seus temas favoritos: astr
 
 Anos depois, Clara ingressou na faculdade de jornalismo. Enquanto seus colegas ainda faziam pesquisas em bibliotecas tradicionais, ela se destacou por dominar ferramentas digitais, usando fóruns e sites de notícias internacionais para aprofundar seus estudos. Quando se formou, a internet já havia revolucionado o mercado de trabalho, e Clara conseguiu um emprego em um site de notícias online, algo impensável em sua infância.
 
-![][image2]
+<img src="./imagens/_6605035c-d291-4ac9-9855-fabcf245af17.jpg" alt="jovem usando o computador na faculdade">
 
 Com o tempo, ela percebeu que a internet não era apenas uma ferramenta profissional, mas também um grande democratizador. Pequenos negócios passaram a competir com grandes empresas, criadores de conteúdo independentes encontraram seu público, e movimentos sociais ganharam força e voz global.
 
@@ -22,7 +22,7 @@ Com o tempo, ela percebeu que a internet não era apenas uma ferramenta profissi
 
 Clara também sentiu na pele o lado emocional da conexão virtual. Quando sua avó adoeceu, a internet foi o canal para que toda a família, espalhada pelo Brasil, se mantivesse conectada. Por meio de videochamadas, sua avó pôde ver e conversar com filhos e netos em tempo real, mesmo nos dias em que a distância física parecia intransponível.
 
-![][image3]
+<img src="./imagens/_2600666e-6d05-4f17-b3ae-f838831113ee.jpg" alt="Senhora hospitalizada fazendo videochamada com sua familia">
 
 Por outro lado, Clara também enfrentou os desafios da vida online: a pressão das redes sociais, o impacto das notícias falsas e o desafio de desconectar para se reconectar consigo mesma. Ela aprendeu que, embora a internet seja uma ferramenta poderosa, o uso consciente é fundamental.
 
@@ -30,6 +30,6 @@ Por outro lado, Clara também enfrentou os desafios da vida online: a pressão d
 
 Hoje, Clara olha para seus filhos, que cresceram com smartphones e assistentes de voz, e se pergunta como será o futuro. A internet, que começou como um simples meio de comunicação, tornou-se parte integral da vida humana, moldando a forma como aprendemos, trabalhamos e nos relacionamos.
 
-![][image4]
+<img src="./imagens/_a99db383-457c-4046-a8cf-19bff8151dd0.jpg" alt="Mulher olhando seus filhos usando tecnologias">
 
 Ainda assim, Clara nunca esquece o som do velho modem conectando, um lembrete de como uma tecnologia tão revolucionária começou de maneira tão simples. Para ela, a internet não foi apenas uma transformação tecnológica, mas uma força que mudou o mundo ao aproximar pessoas e abrir horizontes, mostrando que o conhecimento e a conexão são os maiores tesouros da humanidade.
